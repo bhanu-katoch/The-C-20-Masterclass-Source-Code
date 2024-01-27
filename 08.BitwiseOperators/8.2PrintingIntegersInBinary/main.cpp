@@ -2,6 +2,7 @@
 #include <bitset>
 
 
+
 int main(){
 
     unsigned short int data {15};
