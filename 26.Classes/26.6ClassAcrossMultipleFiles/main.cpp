@@ -1,5 +1,5 @@
 #include <iostream>
-#include "cylinder.h"
+#include "cylinder.cpp"
 
 int main(){
     Cylinder cylinder1(10,10);
