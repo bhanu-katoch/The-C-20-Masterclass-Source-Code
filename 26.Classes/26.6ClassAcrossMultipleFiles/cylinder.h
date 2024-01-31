@@ -5,7 +5,7 @@
 class Cylinder {
     public : 
         //Constctors
-        Cylinder() = default;
+        Cylinder();
         Cylinder(double rad_param,double height_param);
         //Functions (methods)
         double volume();
